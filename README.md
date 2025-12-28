@@ -1,8 +1,8 @@
-# React Native Boilerplate 🚀
+# React Native Boilerplate
 
 Ready-to-use template for rapid React Native app development.
 
-## 🎯 Stack
+## Stack
 
 - React Native + Expo + TypeScript
 - NativeWind (Tailwind CSS)
@@ -10,7 +10,7 @@ Ready-to-use template for rapid React Native app development.
 - Firebase Auth
 - Redux Toolkit
 
-## 📦 Getting Started
+## Getting Started
 
 ```bash
 # 1. Install dependencies
@@ -28,7 +28,7 @@ npx expo start
 # For Android: press a
 ```
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 app/
@@ -43,21 +43,12 @@ src/
 └── redux/          # State management
 ```
 
-## 🚀 Create New App
 
-1. Clone this repo
-2. Create Firebase project
-3. Paste credentials into .env.local
-4. Change bundle ID in app.config.ts
-5. Start!
+## Features
 
-**Time: ~15 minutes**
-
-## 📝 Features
-
-- ✅ Email/Password auth
-- ✅ Protected routes
-- ✅ Redux state
-- ✅ Tab navigation
-- ✅ TypeScript
-- ✅ iOS & Android
+- Email/Password auth
+- Protected routes
+- Redux state
+- Tab navigation
+- TypeScript
+- iOS & Android
